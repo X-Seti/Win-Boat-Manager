@@ -8,7 +8,7 @@ Usage: winboat-manager.sh [command]
 
 Commands:
 
-  start ----------- Start the WinBoat container
+  start             Start the WinBoat container
   
   stop ------------ Stop the container
   
