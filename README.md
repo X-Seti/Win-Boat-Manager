@@ -8,7 +8,7 @@ Usage: winboat-manager.sh [command]
 
 Commands:
 
-  start             Start the WinBoat container
+  start ----------- Start the WinBoat container
   
   stop ------------ Stop the container
   
@@ -24,7 +24,7 @@ Commands:
   
   backup ---------- Backup WinBoat data to $BACKUP_DIR
   
-  restore <file> -- Restore from backup archive
+  restore [file] -- Restore from backup archive
   
   prune ----------- Clean unused Docker resources
   
